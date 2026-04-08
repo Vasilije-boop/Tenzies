@@ -1,7 +1,7 @@
-#Key challange
+# Key challange
   Working with React State
 
-#Future impovments
+# Future impovments
   Adding timer so that each user can have some kind of rankable score
   Adding Login/Sign Up form
   Connecting front with the database so that times of users could be saved
